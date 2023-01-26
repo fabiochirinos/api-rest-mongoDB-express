@@ -1,4 +1,4 @@
-# 📌 CRUD BASICO CON NODEJS, EXPRESS Y MONGODB
+# 📌 Api Rest BASICA CON NODEJS, EXPRESS Y MONGODB
 ¡Hola! Esta es una aplicación desarrollada con `JavaScript, NodeJs, Express y MongoDB`.
 
 ## Descripción
